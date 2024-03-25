@@ -484,7 +484,6 @@ img{
   .modal-close{
     display: block;
     margin-left: auto;
-    border-radius: 4px;
     border-radius: 100%;
     fill: #e7e9fc;
     stroke-width: 1px;
@@ -503,9 +502,44 @@ img{
       margin-bottom: 16px;
   }
 
+  .modal-close{
+      font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.17;
+      letter-spacing: 0.04em;
+      color: #8e8f99;
+  }
+
   .modal-input{
     width: 100%;
     height: 40px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
+    padding-left: 16px;
   }
+
+  .modal-label{
+      font-family: "Roboto", sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.17;
+      letter-spacing: 0.04em;
+      color: #8e8f99;
+      display: block;
+      margin-bottom: 4px;
+  }
+
+  .modal-checkbox{
+    border-radius: 2px;
+    border: 1px solid rgba(46, 47, 66, 0.4);
+  }
+
+  /* .modal-button{
+    border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+background: #4d5ae5;
+  } */
