@@ -603,6 +603,10 @@ img{
     padding-left: 16px;
   }
 
+  .modal-icon-wrap{
+position: relative;
+  }
+
   .modal-label{
       font-family: "Roboto", sans-serif;
       font-weight: 400;
