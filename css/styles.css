@@ -669,8 +669,13 @@ position: relative;
   }
 
   .modal-checkbox{
-    border-radius: 2px;
-    border: 1px solid rgba(46, 47, 66, 0.4);
+    margin-bottom: 24px; 
+    /* border-radius: 2px;
+    border: 1px solid rgba(46, 47, 66, 0.4); */
+  }
+
+  .user-comment{
+    
   }
 
   .modal-button{
