@@ -697,6 +697,15 @@ position: relative;
     fill: transparent;
   }
 
+  .modal-input-checkbox:checked + .modal-span{
+    background-color: #404bbf;
+    border: none;
+fill: #F4F4FD;
+  }
+
+  .modal-link{
+    color:#4d5ae5;
+  }
   .modal-button{
       min-width: 169px;
     display: block;
