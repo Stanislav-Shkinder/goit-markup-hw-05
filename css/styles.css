@@ -668,16 +668,16 @@ position: relative;
     border-color: #4D5AE5;
   }
 
-  .modal-checkbox{
+  /* .modal-checkbox{
     margin-bottom: 24px; 
-    /* border-radius: 2px;
-    border: 1px solid rgba(46, 47, 66, 0.4); */
+    border-radius: 2px;
+    border: 1px solid rgba(46, 47, 66, 0.4);
   }
 
   .user-comment{
     
-  }
-
+  } */
+/* 
   .modal-label-checkbox{
     font-size: 12px;
     line-height: 1.17; 
@@ -705,7 +705,7 @@ fill: #F4F4FD;
 
   .modal-link{
     color:#4d5ae5;
-  }
+  } */
   .modal-button{
       min-width: 169px;
     display: block;
