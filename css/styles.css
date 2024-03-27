@@ -696,7 +696,9 @@ position: relative;
     justify-content: center;
     fill: transparent;
   }
-
+.modal-link{
+    color:#4d5ae5;
+}
   .modal-button{
       min-width: 169px;
     display: block;
