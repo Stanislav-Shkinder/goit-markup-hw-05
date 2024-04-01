@@ -575,7 +575,7 @@ img{
   }
   
 
-  .modal-close:hover > .icon-close-black
+  .modal-close:hover > .icon-close-black,
   .modal-close:focus > .icon-close-black{
     fill: #ffffff;
   }
